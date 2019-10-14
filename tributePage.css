@@ -1,0 +1,30 @@
+body{
+    font-family: Helvetica, sans-serif;
+    text-align:center;
+}
+main{
+    background: #eee;
+    margin: 30px 8px;
+    border-radius: 4px;
+    padding:15px;
+}
+header{
+    padding:10px 0px;
+}
+#img-div{
+    background: #fff;
+    padding:10px;
+}
+img{
+    width:50%;
+}
+ul{
+    width:35%;
+    line-height:1.6;
+    text-align:justify;
+    padding:15px;
+    margin:auto;
+}
+li{
+    margin:16px 0px;
+}
