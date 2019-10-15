@@ -5,4 +5,4 @@ A FreeCodeCamp responsive web design project.
 
 
 
-A link to the codepen: https://codepen.io/Jyoti16/pen/RwbBjWy
+A link to the codepen: https://codepen.io/Jyoti16/full/RwbBjWy
